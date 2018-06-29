@@ -16,7 +16,9 @@ External interrupt using switch and sending Temperature Sensor data using UART
  
      1) Download mingw-w64 From https://sourceforge.net/projects/mingw-w64/
      2) Copy The bin Folder Path
-   
-![untitled](https://user-images.githubusercontent.com/33217386/42107796-f21569c8-7bd8-11e8-9411-fcf6f9ed4007.png)
+ ![untitled](https://user-images.githubusercontent.com/33217386/42107796-f21569c8-7bd8-11e8-9411-fcf6f9ed4007.png)
+ 
+   3)Past The Path of the bin Folder in the Path windows Environmental Variable
+       
+![capture](https://user-images.githubusercontent.com/33217386/42108232-35c5cd1a-7bda-11e8-8843-667e76c8dee0.PNG)
 
-     3) Past The Path of the bin Folder in the Path windows Environmental Variable

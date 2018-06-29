@@ -16,5 +16,5 @@ The program can send continuous serial date comes from temperature sensor with 3
      1) Download mingw-w64 From https://sourceforge.net/projects/mingw-w64/
      2) Copy The bin Folder Path
      
-       ![1](https://user-images.githubusercontent.com/33217386/42107197-c336598e-7bd6-11e8-8f90-bef139479652.png)
+     ![1](https://user-images.githubusercontent.com/33217386/42107197-c336598e-7bd6-11e8-8f90-bef139479652.png)
 

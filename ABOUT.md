@@ -9,6 +9,12 @@
 2- DIP Switch
 
 
+![20170406-123308_p0-1](https://user-images.githubusercontent.com/33217386/42113509-c7896142-7beb-11e8-962a-fce1787ef27e.jpg)
+
+3- Temperature Sensor
+
+
+
 
 
 

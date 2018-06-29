@@ -35,22 +35,13 @@ External interrupt using switch and sending Temperature Sensor data using UART
 
  - Install Eclipse C/C++ Development Tool (CDT)
 
-Two ways to install CDT, depending on whether you have previously installed an Eclipse:
-
-    If you have already installed "Eclipse for Java Developers" or other Eclipse packages, you could install the CDT plug-in as follows:
-    Launch Eclipse ⇒ Help ⇒ Install New Software ⇒ In "Work with" field, pull down the drop-down menu and select "Kepler - http://download.eclipse.org/releases/kepler" (or juno for Eclipse 4.2; or helios for Eclipse 3.7).
-    In "Name" box, expand "Programming Language" node ⇒ Check "C/C++ Development Tools" ⇒ "Next" ⇒ ... ⇒ "Finish".
-    If you have not install any Eclipse package, you could download "Eclipse IDE for C/C++ Developers" from http://www.eclipse.org/downloads, and unzip the downloaded file into a directory of your choice.
-
-Step 2: Configuration
-
-You do NOT need to do any configuration, as long as the Cygwin or MinGW binaries are included in the PATH environment variable. CDT searches the PATH to discover the C/C++ compilers.
-
-
 # Assumptions
 
 - I use PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform 
     To Act As serial monitor
+    
+![z](https://user-images.githubusercontent.com/33217386/42112157-452c23c8-7be7-11e8-9b1e-92d35e6731ca.PNG)
+
     
     
 

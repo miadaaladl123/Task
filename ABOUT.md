@@ -23,6 +23,9 @@
 
 ![20170406-123308_p0-1](https://user-images.githubusercontent.com/33217386/42114633-0226815a-7bf0-11e8-859e-84ada07b15c3.jpg)
 
+1) Using External Interrupt : I use Switch To fire Interrupt Then send “pressed” to the serial monitor only one time also send        the LED states ”ON” or “OFF”
+
+2) Using ADC and UART send continuous serial date comes from temperature sensor with 3 second rate .at the same time using Timer0 
 
 
 # C Language

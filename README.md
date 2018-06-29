@@ -45,3 +45,12 @@ Two ways to install CDT, depending on whether you have previously installed an E
 Step 2: Configuration
 
 You do NOT need to do any configuration, as long as the Cygwin or MinGW binaries are included in the PATH environment variable. CDT searches the PATH to discover the C/C++ compilers.
+
+
+# Assumptions
+
+- I use PuTTY is an SSH and telnet client, developed originally by Simon Tatham for the Windows platform 
+    To Act As serial monitor
+    
+    
+

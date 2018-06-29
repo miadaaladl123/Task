@@ -18,6 +18,16 @@
 ![754-00](https://user-images.githubusercontent.com/33217386/42113625-29563576-7bec-11e8-8222-444044f48b5a.jpg)
 
 
+# C Language
+
+C language was developed by Dennis Ritchie in 1969. It is a collection of one or more functions, and every function is a collection of statements performing a specific task.
+C language is a middle-level language as it supports high-level applications and low-level applications. Before going into the details of embedded C programming, we should know about RAM memory organization.
+
+# Eclipse Framework
+
+he Eclipse Process Framework (EPF) aims at producing a customizable software process enginering framework, with exemplary process content and tools, supporting a broad variety of project types and development styles.
+
+
 
 
 

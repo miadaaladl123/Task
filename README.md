@@ -14,7 +14,14 @@ External interrupt using switch and sending Temperature Sensor data using UART
 
  -Install GCC On Your Machine
      1) Download mingw-w64 From https://sourceforge.net/projects/mingw-w64/
+     
+     
      2) Copy The bin Folder Path
+     
+     
+     
+     
+     ![1](https://user-images.githubusercontent.com/33217386/42107496-ef3f3edc-7bd7-11e8-8403-ad1364ca54a5.png)
      
     
 
